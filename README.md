@@ -1,2 +1,2 @@
-# CICDPracticeKN
-For practice of CI/CD taught by Krish Naik
+# GithubActionTesting
+For practice of Github Action Testing taught by Krish Naik
